@@ -6,7 +6,7 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>joel's app</name>
 
     <description>
         A simple hello world phonegap built app.
